@@ -3,6 +3,7 @@
   <em>IT Student @ Swinburne University of Technology | Cybersecurity Enthusiast</em>
 </p>
 
+---
 
 ### 🧑‍💻 About Me
 
