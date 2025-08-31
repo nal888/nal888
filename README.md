@@ -7,14 +7,13 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Studying **Cybersecurity & IT** at Swinburne University of Technology.  
-- 🐧 Daily driving **Arch Linux + Hyprland**.  
+- 🐧 Daily driving **Linux + Hyprland**.  
 - 🔍 Interests: Networking, CTFs, homelabbing, and security research.  
-- 📚 Always exploring new skills in cybersecurity and programming.  
+- 📚 Always exploring new skills in cybersecurity and programming :D  
 
 ---
 
 ### 🏴 CTF Profiles
-- 🔒 **HackTheBox:** [nal888](https://app.hackthebox.com/profile/2480610)  
 - 🕵️ **TryHackMe:** [nal888](https://tryhackme.com/p/nal888)  
 
 <p align="center">
