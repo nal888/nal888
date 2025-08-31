@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <img src="linux-.gif" alt="Linux Penguin" width="200"/>
+</p>
+
 ### 🧑‍💻 About Me
 - 🎓 Studying **Cybersecurity & IT** at Swinburne University of Technology.  
 - 🐧 Daily driving **Linux + Hyprland**.  
