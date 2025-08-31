@@ -5,15 +5,24 @@
 
 ---
 
-<p align="center">
-  <img src="linux-.gif" alt="Linux Penguin" width="200"/>
-</p>
-
 ### 🧑‍💻 About Me
+
+<table>
+  <tr>
+    <td width="150">
+      <img src="linux-.gif" alt="Linux Penguin" width="120"/>
+    </td>
+    <td>
+      
 - 🎓 Studying **Cybersecurity & IT** at Swinburne University of Technology.  
 - 🐧 Daily driving **Linux + Hyprland**.  
 - 🔍 Interests: Networking, CTFs, homelabbing, and security research.  
 - 📚 Always exploring new skills in cybersecurity and programming :D  
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
