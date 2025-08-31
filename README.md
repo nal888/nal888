@@ -14,14 +14,12 @@
 ---
 
 ### 🏴 CTF Profiles
-- 🕵️ **TryHackMe:** [nal888](https://tryhackme.com/p/nal888)  
-
-![HTB Rank](https://img.shields.io/badge/HTB-Script%20Kiddie-green?style=for-the-badge&logo=hackthebox)
-
-
+- 🕵️ **TryHackMe:** [nal888](https://tryhackme.com/p/nal888)
+    
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/nal888.png" alt="TryHackMe Badge" />
 </p>
+
 
 ---
 
