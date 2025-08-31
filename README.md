@@ -7,14 +7,13 @@
 
 ### 🧑‍💻 About Me
 
-<img src="linux-.gif" alt="Linux Penguin" width="120" align="right"/>
+<img src="linux-.gif" alt="Linux Penguin" width="120" align="right" style="margin-left: 15px;"/>
 
 - 🎓 Studying **Cybersecurity & IT** at Swinburne University of Technology.  
 - 🐧 Daily driving **Linux + Hyprland**.  
 - 🔍 Interests: Networking, CTFs, homelabbing, and security research.  
-- 📚 Always exploring new skills in cybersecurity and programming :D  
-
-
+- 📚 Always exploring new skills in cybersecurity and programming :D
+  
 ---
 
 ### 🏴 CTF Profiles
