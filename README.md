@@ -16,7 +16,7 @@
 ### 🏴 CTF Profiles
 
 <p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/nal888.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5364683" style='border:none;'></iframe>
 </p>
 
 
