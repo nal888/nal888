@@ -15,8 +15,10 @@
 
 ### 🏴 CTF Profiles
 
+- 🕵️ **TryHackMe:** [nal888](https://tryhackme.com/p/nal888)  
+
 <p align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5364683" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nal888.png" alt="TryHackMe Badge" />
 </p>
 
 
