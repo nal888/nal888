@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-<img src="linux-.gif" alt="Linux Penguin" width="100" align="right"/>
+<img src="linux-.gif" alt="Linux Penguin" width="110" align="right"/>
 
 - 🎓 Studying **Cybersecurity & IT** at Swinburne University of Technology.  
 - 🐧 Daily driving **Linux + Hyprland**.  
