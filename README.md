@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Nal</h2>
 <p align="center">
-  <em>Diploma of IT Student @ Swinburne University of Technology | Cybersecurity Enthusiast</em>
+  <em>IT Student @ Swinburne University of Technology | Cybersecurity Enthusiast</em>
 </p>
 
 ---
@@ -19,7 +19,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/nal888.png" alt="Your Image Badge" />
 </p>
 
----
 
 ### 📫 Contact
 - ✉️ Email: **nalchhen90@gmail.com**  
