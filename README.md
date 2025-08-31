@@ -14,12 +14,11 @@
 ---
 
 ### 🏴 CTF Profiles
-- 🕵️ **TryHackMe:** [nal888](https://tryhackme.com/p/nal888)
-    
+- 🕵️ **TryHackMe:** [nal888](https://tryhackme.com/p/nal888)  
+
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/nal888.png" alt="TryHackMe Badge" />
 </p>
-
 
 ---
 
