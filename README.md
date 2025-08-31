@@ -25,6 +25,5 @@
 - ✉️ Email: **nalchhen90@gmail.com**  
 - 💬 Discord: **sonal9519**  
 
----
 
 ⭐️ If you like my work, consider giving my repos a star!
